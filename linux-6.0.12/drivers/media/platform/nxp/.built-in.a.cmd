@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/nxp/built-in.a := rm -f drivers/media/platform/nxp/built-in.a;  printf "drivers/media/platform/nxp/%s " imx-jpeg/built-in.a | xargs ar cDPrST drivers/media/platform/nxp/built-in.a

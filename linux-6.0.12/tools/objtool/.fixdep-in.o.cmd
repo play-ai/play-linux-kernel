@@ -1,0 +1,1 @@
+cmd_/workspaces/play-linux-kernel/linux-6.0.12/tools/objtool/fixdep-in.o :=  ld -r -o /workspaces/play-linux-kernel/linux-6.0.12/tools/objtool/fixdep-in.o  /workspaces/play-linux-kernel/linux-6.0.12/tools/objtool/fixdep.o
